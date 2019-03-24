@@ -1,0 +1,1 @@
+# pyzbar-MVC-QR-scanner
